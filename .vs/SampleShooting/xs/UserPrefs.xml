@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{079BACE2-F556-8282-357E-F5E787D7E3C4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BulletController.cs" Line="31" Column="2" />
+      <File FileName="Assets/Scripts/RockGenerator.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="10" Column="29" />
+      <File FileName="Assets/Scripts/RocketController.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/RockController.cs" Line="15" Column="5" />
+      <File FileName="Assets/Scripts/BackgroundController.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
